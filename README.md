@@ -6,7 +6,7 @@ This is my website where I show off my skills and the projects I've worked on. I
 * **index.html** - The home page with my profile picture.
 * **about.html** - Information about my education, skills, and hobbies.
 * **experience.html** - Details on my club memberships (ACM) and technical background.
-* **projects.html** - A list of things I've built, like my Java apps and AI projects.
+* **projects.html** - A list of things I've built, like my web apps using js and AI projects.
 * **contacts.html** - How to reach me via email or phone.
 * **style.css** - One file that handles all the colors, fonts, and layout.
 
