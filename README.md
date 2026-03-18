@@ -20,4 +20,4 @@ I used **HTML5** to structure the pages and **CSS3** to handle the design and an
 
 ---
 **By Dharun A**
-*Computer Science Student at Amrita Vishwa Vidyapeetham*
+
