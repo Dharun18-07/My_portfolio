@@ -9,6 +9,7 @@ This is my website where I show off my skills and the projects I've worked on. I
 * **projects.html** - A list of things I've built, like my web apps using js and AI projects.
 * **contacts.html** - How to reach me via email or phone.
 * **style.css** - One file that handles all the colors, fonts, and layout.
+* **script.js** - A file that contains my mini game project code.
 
 ### Features I Added
 * **Mobile Friendly:** The website looks good on phones and laptops because the layout adjusts automatically by my responsive design.
